@@ -1,0 +1,19 @@
+{
+    "local": {
+        "awscloudformation": {
+            "AuthRoleName": "blog-local-20190504022050-authRole",
+            "UnauthRoleArn": "arn:aws:iam::038950226408:role/blog-local-20190504022050-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::038950226408:role/blog-local-20190504022050-authRole",
+            "Region": "eu-central-1",
+            "DeploymentBucketName": "blog-local-20190504022050-deployment",
+            "UnauthRoleName": "blog-local-20190504022050-unauthRole",
+            "StackName": "blog-local-20190504022050",
+            "StackId": "arn:aws:cloudformation:eu-central-1:038950226408:stack/blog-local-20190504022050/79128e80-6e02-11e9-8c89-0a322bcecbc4"
+        },
+        "categories": {
+            "auth": {
+                "cognito5208b5fb": {}
+            }
+        }
+    }
+}
